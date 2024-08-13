@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42a0949b7465d3a4fa9fca3dfc1d6848
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabShotSound: {fileID: 6088807050120452093, guid: d59e421091f101c42bf71df3db297f54,
+      type: 3}
+  - prefabBulletHole: {fileID: 6886013813006759139, guid: a6237aad1b8839e46904cc02d48ad62d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

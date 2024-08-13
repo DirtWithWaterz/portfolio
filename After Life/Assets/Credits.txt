@@ -1,0 +1,42 @@
+Credits:
+
+The FontStruction “Crumbled Pixels”
+(http://fontstruct.com/fontstructions/show/1127995) by “danengneng” is
+licensed under a Creative Commons Attribution license
+(http://creativecommons.org/licenses/by/3.0/).
+
+Art by penusbmic.
+(https://penusbmic.carrd.co/)
+
+Pixel video tapes by Alien-narcotic
+(https://www.deviantart.com/alien-narcotic)
+
+Sound effect "Forest Ambience"
+(https://www.youtube.com/watch?v=83X26UkmbkM)
+by @BurghRecords.
+
+music "Bastion"
+(https://www.youtube.com/watch?v=qTUOsHI4I8Y&lc=UgxzCm1hQxKyCCu1bed4AaABAg.9Zd1ySeu4rw9Zd9DDrixyq)
+by Truly Infamous on YouTube.
+
+music "The Bard's Tale" and "The Old Tower Inn"
+(https://www.youtube.com/watch?v=lPTYPspnq8Q)
+(https://www.youtube.com/watch?v=3TMBF4zq4LQ)
+by Random Mind on YouTube
+
+music "すべて終わった朝"
+(https://www.youtube.com/watch?v=kvFLBjpQTHw)
+by F@ct【オリジナルチップチューン】on YouTube
+
+music "LOST FOREST"
+(https://www.youtube.com/watch?v=MMOtyRoNkUI)
+by kamera ♪ on YouTube
+
+Retro shader and Blit.cs
+(https://github.com/Cyanilux/URP_RetroCRTShader/tree/master)
+(https://github.com/Cyanilux/URP_BlitRenderFeature/blob/master/Blit.cs)
+by @Cyanilux on Twitter
+
+
+
+Game Concept, Programming, and Story by yours truely. <3

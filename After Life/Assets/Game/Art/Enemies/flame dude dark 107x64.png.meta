@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: 1d1b169caebebc64c99b7947b89582a9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flame dude dark 107x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaaadbf673f645489d8ef383756b45f
+      internalID: 1422784726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 512
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d0ce4685c5de4ea30217d31354e06
+      internalID: -1819903226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 512
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcccab4b1d52ea4fb635329ed753582
+      internalID: -1569023705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 512
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cce01dc94844940806244300dc2430
+      internalID: 1873167753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 512
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f011ed1d16b5014f91477bf63b98851
+      internalID: -1615493233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 512
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c41b83dc0927441b7f9504b1786161
+      internalID: -201154609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d27c9fbd7bade4db813a8f74cb2ed6
+      internalID: -1472277669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79119b67d1af14a4dbc35c9ada14aed7
+      internalID: 120411402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0f68e3469e944db0a1c1c27d34df9
+      internalID: 2097836594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e28d13f8b3b9c48b322452dfa37c79
+      internalID: -1027563722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cce01535f6bef41bcef39be3ca6018
+      internalID: -273577753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff694afe3af7745b9eaa4a270fe9b3
+      internalID: 1254987154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89da6ae8dd6b149a93b60a336e34d1
+      internalID: 83378624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 448
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d077f12190dd94691452e4454689fa
+      internalID: 1486804333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8675eed5eaed46249894f6d59ea338bd
+      internalID: 1056304530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed3b64685401543993c3ff2fd2d283
+      internalID: -2091049107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c087a366a82574885111383907bdde
+      internalID: 1147695627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebb692439e8b1418c8579d9444a4e1
+      internalID: -160691764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9876bb0b1ca02004fb0476ca19793bb1
+      internalID: 1220198350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_19
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca713ac7d381d45882eb3ae02a0caf
+      internalID: -652693211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0eeaae8b9d9bb4884925ef09fed5dc
+      internalID: 373625643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88525fb4f5d28824d82c80a07d86f1e3
+      internalID: 2002819929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_22
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa18c4e855d353e4986608280491ecd5
+      internalID: -406811942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc16e99bc6a494489d86d35869d688
+      internalID: 798368160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_24
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab043b943207d864894fd06810e439be
+      internalID: -1847352640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_25
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 384
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588c5476acc580d4eb4044bd956939f9
+      internalID: 10924708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa643cbb1b5bc941b20528804efc50f
+      internalID: -2102318212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 320
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b884b110b021704588cffae185a49ac
+      internalID: 745244519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 320
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e84a8d36dccd45ae0793eb3ab0663
+      internalID: 212860116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da9310e803fb54e9e8bed405eb5c41
+      internalID: -1389773240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 320
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c211ad69772364d9244dab2527c4f0
+      internalID: -1214382829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 320
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d045559e0ec264b99bd1f84ec31a28
+      internalID: -419056005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 320
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17ffd144be6b304b8a504e6310d78f0
+      internalID: 2147438148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0bd7b00e0beb744b77bee55cec8728
+      internalID: 1945838035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 256
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e9eda8ce191d468a1b5a4b8d98d19
+      internalID: -410599609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00011deb142c3f14a960cc38ba3a9b68
+      internalID: -727216832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059c14d0f803204da44e30278922744
+      internalID: -588454249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a60f889fa04f448bb5b9227036d64a
+      internalID: -335344458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8bb5b16ffbf54408678e83d03b4121
+      internalID: -1335275266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ebf5d8ec616347bef29f572fa3602
+      internalID: -1024914750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79ed3445f642b54d893337d730aa063
+      internalID: -2014417072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_41
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf95936e0dab5d47a427e7c7598c934
+      internalID: -671971629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_42
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42857551e28ec5a4596cbe95771eab70
+      internalID: 1188517132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_43
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7308f86862ffc4ca51a136fcc8565b
+      internalID: 564306244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_44
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974b7cec10511545b55681726a0fd8e
+      internalID: -122172934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_45
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c121abdef30570e45b78adc2b113fc64
+      internalID: -432775167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_46
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdef991a1ec33d468f6c5686786171c
+      internalID: -1866408413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_47
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869704c527e48f340b1aa03b8cb11a0f
+      internalID: -520725102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_48
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350f12c080dcc442a31d914bbe92834
+      internalID: 1322585856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_49
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 192
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478d2f9a896109f46a17e127f8cbb516
+      internalID: 123883117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04973b1da1962dd458099f23174b55ce
+      internalID: 342286298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39de9d8e694b14aaedf17510afa90d
+      internalID: 1200071129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_52
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30175b8a043d945813b7c99745ff4e
+      internalID: 194300610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c1b0fe8957dc41a350f23eacc021d
+      internalID: 1150006521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_54
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81414aa29c7a1bd4e9cb548fc3bb7422
+      internalID: -819307909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450afc1305766214390b3b5c4c6fa585
+      internalID: 356797679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_56
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85890d2ccbda0774184acbaa21dbaa14
+      internalID: -323576733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_57
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d5402b0bb936458d6c397a7f7c68c
+      internalID: -801586356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_58
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227add57355d2c34195440df07e87360
+      internalID: 1325562756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_59
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203515e5eba314542a14d79135030592
+      internalID: -28770259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_60
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683381afb15f543419713b51e0703943
+      internalID: 1645150414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_61
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 128
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23449927b4309342b01bf781ac814b2
+      internalID: 686882979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d0b69e95ca2b4e99d7aca316118d2
+      internalID: 557334441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_63
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 64
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b26c93c7934949b254ca4e1cf24f7
+      internalID: 1409122454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 64
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3359375311776f84ca9c1976438872ee
+      internalID: -1913471154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 64
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d814814961a0142b35477ff73ea13f
+      internalID: -361555407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_66
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 64
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a4f058f1199847bacae0ea75b3510
+      internalID: -821834861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_67
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 64
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5484555e88c3f4589bf2d8c5b00579
+      internalID: 2106701535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_68
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 64
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2336449, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b4eca291c893644b1ffcb88fbfe1a0
+      internalID: 32828419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.23364486, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2889112ef2b14296c81c4c2a0cc86
+      internalID: -1509531551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.23364486, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f2e3a0b867daa43b11583af0e3c690
+      internalID: -294039986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.23364486, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eddb28e95aca840ac418b318fd1c4c
+      internalID: 58663680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame dude dark 107x64_72
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.23364486, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492c1b8b7d9bc7b488d859010c9db2b9
+      internalID: 1796837747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flame dude dark 107x64_68: 32828419
+      flame dude dark 107x64_69: -1509531551
+      flame dude dark 107x64_50: 342286298
+      flame dude dark 107x64_9: -1027563722
+      flame dude dark 107x64_55: 356797679
+      flame dude dark 107x64_13: 1486804333
+      flame dude dark 107x64_48: 1322585856
+      flame dude dark 107x64_35: -727216832
+      flame dude dark 107x64_30: -1214382829
+      flame dude dark 107x64_21: 2002819929
+      flame dude dark 107x64_65: -361555407
+      flame dude dark 107x64_4: -1615493233
+      flame dude dark 107x64_44: -122172934
+      flame dude dark 107x64_38: -1335275266
+      flame dude dark 107x64_31: -419056005
+      flame dude dark 107x64_1: -1819903226
+      flame dude dark 107x64_23: 798368160
+      flame dude dark 107x64_34: -410599609
+      flame dude dark 107x64_53: 1150006521
+      flame dude dark 107x64_16: 1147695627
+      flame dude dark 107x64_3: 1873167753
+      flame dude dark 107x64_37: -335344458
+      flame dude dark 107x64_40: -2014417072
+      flame dude dark 107x64_32: 2147438148
+      flame dude dark 107x64_28: 212860116
+      flame dude dark 107x64_41: -671971629
+      flame dude dark 107x64_26: -2102318212
+      flame dude dark 107x64_61: 686882979
+      flame dude dark 107x64_8: 2097836594
+      flame dude dark 107x64_63: 1409122454
+      flame dude dark 107x64_12: 83378624
+      flame dude dark 107x64_7: 120411402
+      flame dude dark 107x64_25: 10924708
+      flame dude dark 107x64_64: -1913471154
+      flame dude dark 107x64_43: 564306244
+      flame dude dark 107x64_67: 2106701535
+      flame dude dark 107x64_6: -1472277669
+      flame dude dark 107x64_10: -273577753
+      flame dude dark 107x64_11: 1254987154
+      flame dude dark 107x64_49: 123883117
+      flame dude dark 107x64_19: -652693211
+      flame dude dark 107x64_71: 58663680
+      flame dude dark 107x64_24: -1847352640
+      flame dude dark 107x64_20: 373625643
+      flame dude dark 107x64_58: 1325562756
+      flame dude dark 107x64_51: 1200071129
+      flame dude dark 107x64_22: -406811942
+      flame dude dark 107x64_57: -801586356
+      flame dude dark 107x64_54: -819307909
+      flame dude dark 107x64_18: 1220198350
+      flame dude dark 107x64_15: -2091049107
+      flame dude dark 107x64_62: 557334441
+      flame dude dark 107x64_46: -1866408413
+      flame dude dark 107x64_39: -1024914750
+      flame dude dark 107x64_36: -588454249
+      flame dude dark 107x64_45: -432775167
+      flame dude dark 107x64_0: 1422784726
+      flame dude dark 107x64_5: -201154609
+      flame dude dark 107x64_2: -1569023705
+      flame dude dark 107x64_70: -294039986
+      flame dude dark 107x64_56: -323576733
+      flame dude dark 107x64_27: 745244519
+      flame dude dark 107x64_33: 1945838035
+      flame dude dark 107x64_47: -520725102
+      flame dude dark 107x64_52: 194300610
+      flame dude dark 107x64_59: -28770259
+      flame dude dark 107x64_60: 1645150414
+      flame dude dark 107x64_72: 1796837747
+      flame dude dark 107x64_29: -1389773240
+      flame dude dark 107x64_14: 1056304530
+      flame dude dark 107x64_17: -160691764
+      flame dude dark 107x64_66: -821834861
+      flame dude dark 107x64_42: 1188517132
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

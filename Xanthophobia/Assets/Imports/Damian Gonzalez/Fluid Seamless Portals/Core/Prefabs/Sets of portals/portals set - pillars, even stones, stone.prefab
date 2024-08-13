@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3126159901616816257
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875940, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875941, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_Name
+      value: portals set - pillars, even stones, stone
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875941, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875943, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: optimization.fartherThan
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875943, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: optimization.disableDistantCameras
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731005875943, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: advanced.maxVelocityForElasticPlane
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033731769126483, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033732037555614, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033732037555614, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6015033732037555614, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6295138918292370721, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ef40514e72a0a9c4cba96fdc0785963c, type: 2}
+    - target: {fileID: 6466588365253864464, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ef40514e72a0a9c4cba96fdc0785963c, type: 2}
+    - target: {fileID: 7104688377632393147, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_text
+      value: 'healthy
+
+        Stone'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7121348516953502670, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_text
+      value: 'healthy
+
+        Stone'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8534539874607397503, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ef40514e72a0a9c4cba96fdc0785963c, type: 2}
+    - target: {fileID: 8688000485661975374, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ef40514e72a0a9c4cba96fdc0785963c, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b0764a9a788fa284ca15bc327548b09c, type: 3}

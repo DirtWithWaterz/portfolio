@@ -1,0 +1,90 @@
+
+Hello, and thank you very much for purchasing this asset!
+
+
+I have moved all the documentation to the web, where you can find 
+detailed information about both versions of the asset (basic and full),
+and up-to-date examples with videos, and new questions answered,
+all in English and Spanish.
+
+It's all here: http://www.damian-gonzalez.com/portals/
+
+
+If the online documentation doesn't solve your issue and you need my 
+assistance, you can contact me:
+
+┌--------------------------------------------┐
+│                                            │
+│   Damián González                          │
+│   E-mail: hello@damian-gonzalez.com        │
+│   Whatsapp: https://wa.me/5492614182648    │
+│                                            │
+└--------------------------------------------┘
+
+
+
+However, here you have offline "HOW TO USE" instructions.
+
+
+Implementing this asset is very simple. Let's see 3 ways to do it:
+
+
+_______________________
+
+a. From the demo scene
+
+After purchasing and importing the asset, go to the folder:
+Assets > Damian Gonzalez > Fluid Seamless Portals > Demo > Scenes
+
+You can open the first scene, called "General Demo", and simply press Play. 
+Just like that, you should be able to explore everything the asset offers. 
+And of course, you can build your game around this scene.
+
+If you are using a URP or HDRP project, you'll find this folder:
+Assets > Damian Gonzalez > Fluid Seamless Portals > Core > Pipelines conversion
+
+And inside it you have packages for converting the materials to the pipeline you are using.
+
+
+_______________________
+
+b. From your own scene
+
+Or, of course, if you already have a scene, you can add the portals to it.
+This is very easy, just go to the prefabs folder:
+Assets > Damian Gonzalez > Fluid Seamless Portals > Core > Prefabs > Sets of portals
+
+and drag any of the prefabs into your scene.
+As children of the portal set, you will see 2 individual portals (A and B).
+You can place them wherever you want and rotate them however you want.
+(But be careful to manipulate these two objects ("portal A" and "portal B") and not their children. This could cause unwanted effects)
+
+...And that's it!
+
+
+_______________________
+
+c. From scratch
+
+
+If you want to build it from scratch, it's easy too. Follow these steps:
+
+1) If you don't have one, create a new Unity project
+
+2) Download and import the asset
+
+3) Create 2 different places, even if they are just floors.
+For example, create 2 cubes, with a scale like [20, 1, 20], and make them different in some way 
+(otherwise you won't notice if you you teleported) as a different color, or add some object to differenciate them.
+
+4) Now drag a set of portals into your scene (see above) and place one in each location
+
+5) Drag a player from "Prefabs > Player" folder, and place it in one of the rooms
+
+That's all. Press play and have fun!
+
+
+_______________________
+
+For more details, please check the online documentation: http://www.damian-gonzalez.com/portals/
+Thank you!

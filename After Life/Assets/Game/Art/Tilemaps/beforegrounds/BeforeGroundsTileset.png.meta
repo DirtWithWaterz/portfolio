@@ -1,0 +1,2759 @@
+fileFormatVersion: 2
+guid: e689f6678cbb83c40b6d0a9eee4972ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_0
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 367
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4095f7ff67ef7d6469226edf141e6a0a
+      internalID: 1273515037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfab2b0f6a1321d4586a2df08d36142a
+      internalID: 1259471128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa283800101c5c4086ae7a41f05c855
+      internalID: 2131649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2d320dfd1c3ff4783231aa538548d7
+      internalID: -599978430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227cb788b774d2745bab62604d917729
+      internalID: 56921164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce41874be91b794aafca289b4a011ae
+      internalID: 1551392038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0df11ddf031d4c86fca11769890d6
+      internalID: -978490332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90489e0591bf404890efa870cf64f5d
+      internalID: -1525567534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f4a8d431e65b041a6cefd03873b48f
+      internalID: 1651403072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fbee52d2e90cf479406549afc3432a
+      internalID: -1940384584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d67db295677a94994b958d13508588
+      internalID: -75328303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f5f7a2598b194d96a5c89b17732df
+      internalID: -284475377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176e3a1ad9f29a409630dfeef34be49
+      internalID: -224954269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8439d7c5a44f78a48b3c64542934fe8f
+      internalID: 736524360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe205345ca1e8d641ba9cb258c635ec3
+      internalID: 1001578370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819656b29186044418217ed3e61cda11
+      internalID: -1428615982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f8189e976eba54da322be17cb1358c
+      internalID: 603501318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1028980ae4368ef4194e1b26a87c4e77
+      internalID: 1571352820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ab496894f6ee40a060a8b257c1a19
+      internalID: 1293847497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239022734a089ca4fa0a65c7d8252273
+      internalID: -957882968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d48fad35a37ae4d90db7b63616f3fe
+      internalID: -1152657617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 240
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2000da1ca421da046ab11b064f89f2d2
+      internalID: -1838191414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19e431ed0221f4fbe225679617d5e3
+      internalID: -161398233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4464fc6418ffbb4f9f1c01bbaf7d2ba
+      internalID: -326959317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ffb540f158f124796e49fd5c1e9969
+      internalID: 1088435859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bf78b9cae05444f8a9c24c587aa079
+      internalID: 1127055309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2480e79fb736b4fb4f52ac2a651afa
+      internalID: -901502381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78408447896a8e4d8ef8106dd191dfd
+      internalID: 1257827645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9ced2c1101bd4a8ad36757a330362
+      internalID: 689359216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d2092ec6632a42881ef925f9e4217
+      internalID: -163331168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61edd3b0613f41d45b89f389b9094afb
+      internalID: -529220318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe37f1f52444442828ac4f33ab5a95
+      internalID: -1361695270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f78c49d6af5644d8f57a35b2acc9e5
+      internalID: 1327444650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2f42a31d196d74ba4d31e6aa79e605
+      internalID: -542319146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c0cb947533844f81928006b90b469
+      internalID: 74891180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3090b7552dc5d4084ee3038729b2ed
+      internalID: 728831376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a4ab9da375644382690be31a3e160
+      internalID: -1470540810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5189432272a41a449a41c398f2c03c50
+      internalID: 1734489604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810bfe3a4bd27a24c8f6b487daa25380
+      internalID: 816779261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5555fbde245dc5348aaa9ea415203331
+      internalID: -1562302718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_74
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c29b6b0a9953514082011d86937f28b
+      internalID: -411449325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_82
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34906aa190b58db45bb156242effa111
+      internalID: -44951515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8492b7b72de36740aa3de8bf15dbb6d
+      internalID: -406733125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a097193738c166c4882aaf6173910963
+      internalID: 126005238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ee17a9367e6ec42896adf34307152d
+      internalID: -236704100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_86
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170edcf10efb184bb04b49a7fc3d6ea
+      internalID: -532351335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 240
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4713f20fd8368e94e8a24258fb79d886
+      internalID: -1140132960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_95
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbf8e9e7009d974c8447bda9c41b139
+      internalID: 1675992090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_96
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a3309379e07c54d8ce5b589ec1f6d1
+      internalID: 1128070919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb35bd7c02fa64cbd2138891eaf6c3
+      internalID: 1461429336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738cc8ee8b9afd044b45ae3bae574892
+      internalID: 383947885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_113
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 208
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f43cd7a0244664bad03fe0327f8e09
+      internalID: 261389428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095acb0eef327641a98867e6495229e
+      internalID: -1547379936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f61959bd39e447b92ad6bcde60224
+      internalID: -349040929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463269b5a4485f84ea43695af2cd789b
+      internalID: -1315509145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b0ccf640d46a4c865f04ff7a36447
+      internalID: -807392253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda185acff83f2f479ea576ac62e6bc9
+      internalID: 2107260492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc38e1573d571a4bb4015640c33a342
+      internalID: -816041063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_132
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4913d8fd5de14da9943f1e11a79ca
+      internalID: 425708319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_144
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339700a93070f9045a0033812290da8d
+      internalID: 500989583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_145
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7db5fcec4901841bfb6c81eb3159e7
+      internalID: -1484052568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_146
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0663919c4f10a044a773f6bd8b3a8ed
+      internalID: -496746457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 176
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3c4f0e4c12014797e8dd533b897a3
+      internalID: -686840451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_148
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 176
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0500d680de30479358ad94c293973
+      internalID: -2004389283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_152
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 176
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5388c991c915f94e9f23cb867e99958
+      internalID: 2094211555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_153
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809a5d0658c085f46b57bccced1f92af
+      internalID: 1517108077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ca0b525c5fa8479bd404381cbaad5
+      internalID: -1469797657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17d6e964fb64e4bb8a879230ade3d2
+      internalID: -138052449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eadc6c1b3566e4ab420eb563ffa76c
+      internalID: -1116763093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_158
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17261862aa37341b42a0c9dd7f6c23
+      internalID: -843086463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcf35aa83475a7408dba55db7a5352c
+      internalID: -1514699129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef287b0ee41614e898f0170077c301
+      internalID: 1760761717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bdfdc22f0e3ca4cadb2e1229a84ba3
+      internalID: -1931542615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ada70ec77f4bb4c8e2651993fdbc86
+      internalID: 962791761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb220811a65974bba759971f856c97
+      internalID: -2015953843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 124
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e1cc0c22d678f41bde7d2b3a68a77e
+      internalID: -854763223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9df7588aebc3464a8c97c68184d1bf6
+      internalID: -759419048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db81eefea27f6cd47a1cd9df7356185f
+      internalID: -375462457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_194
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a2c0296a6970a4b95148199abb9a6e
+      internalID: -1766584764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_196
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299261a680336c442a659960cbfd045d
+      internalID: 298786500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_198
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 112
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057c43a88c95404da2ba5fc4742fcda
+      internalID: -1991073183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_202
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 112
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3e4cbfe55db346bc434b0a2143e7d
+      internalID: -1820469520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_203
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 112
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f343c9be6ccbe5478bfd2b86281c7c7
+      internalID: 333100508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_204
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 112
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c2ce20d9715242a36cfd282d06e56
+      internalID: 1336236122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_208
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d182f1770e6948f43a10d9917dc19ba3
+      internalID: -1207101447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_214
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba0ab5f276d6f4e86c1c9aa4c286af
+      internalID: -985943183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_215
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1165e2ec7f61a48ba32a3c07a73bad
+      internalID: -839743150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9210659e7a9bb647856c1b9e02842bf
+      internalID: -234736761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_217
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59914a3ef3db19e4eb82157b758f8d79
+      internalID: 1425767327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_218
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a637e5bc4b1a842a127f271f009759
+      internalID: 1664504468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_227
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55900d6f02284b45ba865015c120842
+      internalID: 1347933028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b159c249992dc1946961f8474449ddcd
+      internalID: -865776772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb0741e9b82d4d4c93603f80291123e
+      internalID: -1332845987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_236
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea9c4f27bc630499b2b65e71691ce0
+      internalID: -747138431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_237
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f0fd436f9c6064a95ffed9293a75ab
+      internalID: -1446200902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_238
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e76b65846195f4789db119f7b0784f
+      internalID: -398014006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_239
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045951e486abc8d4c9e34d295ca8108c
+      internalID: -2074055359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_240
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4765257623404bb7bd4a7b9bdbb97
+      internalID: -1170607162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_241
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8860112ec7eaa3946adf9bbf7e39f603
+      internalID: -1113034403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_242
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 28
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ffefed68fcff4dbceb59eefc27ccc
+      internalID: 1410007498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_252
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d307c976ed2c4cbca5f585fb40190
+      internalID: -2142714901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_253
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7da6980e1ae684a8a9a945ec256382
+      internalID: 1761297909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_254
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b08cb95fd4c14296ac7e5a4b9dfac
+      internalID: -1794708313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_261
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a3715def09d8429ee5c6d2ee5ecdd
+      internalID: -1087413842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_262
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7917082aa1c189849bcaab0f307643be
+      internalID: -728240009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_263
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8900b1f53c61149981169c3cb0aed9
+      internalID: -1542244220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_264
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb75bcd210caa740be091a2789d8ec6
+      internalID: 664475382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_265
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239457a1fb91cb4f82f8dddddd0927b
+      internalID: -1064891149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_266
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad744a431b408f4baaf1422cff0fe3a
+      internalID: -1151540771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_267
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6fface644ed4b47b23bb9597fccd50
+      internalID: 392702522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_268
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc10faab0c0ed498c9efc478ad5cd7
+      internalID: 1182173081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeGroundsTileset_272
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 16
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cc76bb16a25994fa3cfe33c38a8b5e
+      internalID: 226675777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BeforeGroundsTileset_35: -1838191414
+      BeforeGroundsTileset_4: 56921164
+      BeforeGroundsTileset_21: 853107033
+      BeforeGroundsTileset_51: -1361695270
+      BeforeGroundsTileset_214: -985943183
+      BeforeGroundsTileset_247: 517746344
+      BeforeGroundsTileset_215: -839743150
+      BeforeGroundsTileset_126: -1547379936
+      BeforeGroundsTileset_26: 1571352820
+      BeforeGroundsTileset_70: -1470540810
+      BeforeGroundsTileset_187: 1244074990
+      BeforeGroundsTileset_208: -1207101447
+      BeforeGroundsTileset_89: -1761301225
+      BeforeGroundsTileset_42: -161398233
+      BeforeGroundsTileset_144: 500989583
+      BeforeGroundsTileset_177: 1528700924
+      BeforeGroundsTileset_250: 1823394798
+      BeforeGroundsTileset_127: -349040929
+      BeforeGroundsTileset_118: -579181321
+      BeforeGroundsTileset_115: 1764815157
+      BeforeGroundsTileset_123: -893133119
+      BeforeGroundsTileset_241: -1113034403
+      BeforeGroundsTileset_0: 1273515037
+      BeforeGroundsTileset_158: -843086463
+      BeforeGroundsTileset_179: -375462457
+      BeforeGroundsTileset_53: 2048470165
+      BeforeGroundsTileset_169: -1507073974
+      BeforeGroundsTileset_65: -1819330449
+      BeforeGroundsTileset_108: 1739005421
+      BeforeGroundsTileset_30: -253888671
+      BeforeGroundsTileset_148: -2004389283
+      BeforeGroundsTileset_176: 214385089
+      BeforeGroundsTileset_20: -1738277983
+      BeforeGroundsTileset_266: -1151540771
+      BeforeGroundsTileset_270: -2127904273
+      BeforeGroundsTileset_12: -1940384584
+      BeforeGroundsTileset_54: -353472328
+      BeforeGroundsTileset_153: 1517108077
+      BeforeGroundsTileset_162: -148869291
+      BeforeGroundsTileset_190: 1748286862
+      BeforeGroundsTileset_231: -115094287
+      BeforeGroundsTileset_28: -957882968
+      BeforeGroundsTileset_56: 1023971623
+      BeforeGroundsTileset_31: -1821783325
+      BeforeGroundsTileset_43: -326959317
+      BeforeGroundsTileset_5: 1551392038
+      BeforeGroundsTileset_58: -617895075
+      BeforeGroundsTileset_93: 924035920
+      BeforeGroundsTileset_200: 869270303
+      BeforeGroundsTileset_10: -1525567534
+      BeforeGroundsTileset_64: 1504841199
+      BeforeGroundsTileset_19: 1181502395
+      BeforeGroundsTileset_102: 1966669976
+      BeforeGroundsTileset_249: 1637627405
+      BeforeGroundsTileset_40: 1148498826
+      BeforeGroundsTileset_63: -80277670
+      BeforeGroundsTileset_265: -1064891149
+      BeforeGroundsTileset_216: -234736761
+      BeforeGroundsTileset_254: -1794708313
+      BeforeGroundsTileset_188: 981370364
+      BeforeGroundsTileset_221: 1834179481
+      BeforeGroundsTileset_182: -618137858
+      BeforeGroundsTileset_217: 1425767327
+      BeforeGroundsTileset_149: 1196933284
+      BeforeGroundsTileset_133: -163603158
+      BeforeGroundsTileset_261: -1087413842
+      BeforeGroundsTileset_117: -25533174
+      BeforeGroundsTileset_61: 74891180
+      BeforeGroundsTileset_229: -1332845987
+      BeforeGroundsTileset_134: 1547872482
+      BeforeGroundsTileset_106: -632397339
+      BeforeGroundsTileset_271: 88954059
+      BeforeGroundsTileset_83: -406733125
+      BeforeGroundsTileset_37: -1091229076
+      BeforeGroundsTileset_152: 2094211555
+      BeforeGroundsTileset_145: -1484052568
+      BeforeGroundsTileset_111: -1916905214
+      BeforeGroundsTileset_125: 1140898061
+      BeforeGroundsTileset_48: 689359216
+      BeforeGroundsTileset_95: 1675992090
+      BeforeGroundsTileset_263: -1542244220
+      BeforeGroundsTileset_46: -901502381
+      BeforeGroundsTileset_138: -900702005
+      BeforeGroundsTileset_49: -163331168
+      BeforeGroundsTileset_50: -529220318
+      BeforeGroundsTileset_39: -1158084817
+      BeforeGroundsTileset_55: -2091586383
+      BeforeGroundsTileset_15: -224954269
+      BeforeGroundsTileset_257: -891935683
+      BeforeGroundsTileset_6: -2005413889
+      BeforeGroundsTileset_73: -1562302718
+      BeforeGroundsTileset_11: 1651403072
+      BeforeGroundsTileset_34: 1739727979
+      BeforeGroundsTileset_140: 64025778
+      BeforeGroundsTileset_136: -684447486
+      BeforeGroundsTileset_260: 1788817404
+      BeforeGroundsTileset_239: -2074055359
+      BeforeGroundsTileset_184: 1097310133
+      BeforeGroundsTileset_195: 1029055478
+      BeforeGroundsTileset_142: 1760671890
+      BeforeGroundsTileset_112: 383947885
+      BeforeGroundsTileset_222: 111992038
+      BeforeGroundsTileset_191: -1367448559
+      BeforeGroundsTileset_81: -51260380
+      BeforeGroundsTileset_84: 126005238
+      BeforeGroundsTileset_29: -1152657617
+      BeforeGroundsTileset_185: 598232599
+      BeforeGroundsTileset_207: -642534586
+      BeforeGroundsTileset_105: 1017180404
+      BeforeGroundsTileset_128: -1315509145
+      BeforeGroundsTileset_235: -1514176797
+      BeforeGroundsTileset_66: 807519915
+      BeforeGroundsTileset_9: -978490332
+      BeforeGroundsTileset_151: 729235403
+      BeforeGroundsTileset_204: 1336236122
+      BeforeGroundsTileset_211: 572546498
+      BeforeGroundsTileset_23: 390750493
+      BeforeGroundsTileset_146: -496746457
+      BeforeGroundsTileset_199: -1476729168
+      BeforeGroundsTileset_197: 754441464
+      BeforeGroundsTileset_201: 516185640
+      BeforeGroundsTileset_230: 1635132041
+      BeforeGroundsTileset_99: 1648419089
+      BeforeGroundsTileset_174: -1167701535
+      BeforeGroundsTileset_147: -686840451
+      BeforeGroundsTileset_25: 603501318
+      BeforeGroundsTileset_135: 1607905074
+      BeforeGroundsTileset_68: 276607515
+      BeforeGroundsTileset_236: -747138431
+      BeforeGroundsTileset_159: -1514699129
+      BeforeGroundsTileset_186: 1137864754
+      BeforeGroundsTileset_219: -502275299
+      BeforeGroundsTileset_88: 1633187063
+      BeforeGroundsTileset_193: 250396412
+      BeforeGroundsTileset_129: -807392253
+      BeforeGroundsTileset_205: 410446078
+      BeforeGroundsTileset_262: -728240009
+      BeforeGroundsTileset_57: 932067753
+      BeforeGroundsTileset_171: -386858682
+      BeforeGroundsTileset_244: 342051302
+      BeforeGroundsTileset_150: -705842859
+      BeforeGroundsTileset_116: 361708391
+      BeforeGroundsTileset_16: 736524360
+      BeforeGroundsTileset_59: 1327444650
+      BeforeGroundsTileset_181: -404364066
+      BeforeGroundsTileset_245: -452915327
+      BeforeGroundsTileset_213: 1881336418
+      BeforeGroundsTileset_164: 962791761
+      BeforeGroundsTileset_104: -842336502
+      BeforeGroundsTileset_131: -816041063
+      BeforeGroundsTileset_82: -44951515
+      BeforeGroundsTileset_2: 2131649
+      BeforeGroundsTileset_240: -1170607162
+      BeforeGroundsTileset_79: 680340936
+      BeforeGroundsTileset_264: 664475382
+      BeforeGroundsTileset_252: -2142714901
+      BeforeGroundsTileset_238: -398014006
+      BeforeGroundsTileset_256: -1890024678
+      BeforeGroundsTileset_237: -1446200902
+      BeforeGroundsTileset_85: -236704100
+      BeforeGroundsTileset_175: -353097711
+      BeforeGroundsTileset_227: 1347933028
+      BeforeGroundsTileset_97: 1461429336
+      BeforeGroundsTileset_168: 1686556046
+      BeforeGroundsTileset_91: -793264232
+      BeforeGroundsTileset_155: -1469797657
+      BeforeGroundsTileset_78: -433608407
+      BeforeGroundsTileset_163: -1328876099
+      BeforeGroundsTileset_24: 837141800
+      BeforeGroundsTileset_160: 1760761717
+      BeforeGroundsTileset_7: -905141126
+      BeforeGroundsTileset_74: -411449325
+      BeforeGroundsTileset_137: -1019389089
+      BeforeGroundsTileset_156: -138052449
+      BeforeGroundsTileset_268: 1182173081
+      BeforeGroundsTileset_246: -551818974
+      BeforeGroundsTileset_60: -542319146
+      BeforeGroundsTileset_228: -865776772
+      BeforeGroundsTileset_209: 124314164
+      BeforeGroundsTileset_203: 333100508
+      BeforeGroundsTileset_194: -1766584764
+      BeforeGroundsTileset_124: -1878287094
+      BeforeGroundsTileset_253: 1761297909
+      BeforeGroundsTileset_272: 226675777
+      BeforeGroundsTileset_248: -1574800261
+      BeforeGroundsTileset_233: 2041131583
+      BeforeGroundsTileset_71: 1734489604
+      BeforeGroundsTileset_14: -284475377
+      BeforeGroundsTileset_196: 298786500
+      BeforeGroundsTileset_3: -599978430
+      BeforeGroundsTileset_90: 1961085777
+      BeforeGroundsTileset_210: 1925302497
+      BeforeGroundsTileset_267: 392702522
+      BeforeGroundsTileset_86: -532351335
+      BeforeGroundsTileset_167: 1537506937
+      BeforeGroundsTileset_44: 1088435859
+      BeforeGroundsTileset_234: -969438184
+      BeforeGroundsTileset_220: -1102698717
+      BeforeGroundsTileset_141: -1550104717
+      BeforeGroundsTileset_18: -1428615982
+      BeforeGroundsTileset_224: 1575455735
+      BeforeGroundsTileset_87: -1140132960
+      BeforeGroundsTileset_33: -1246802283
+      BeforeGroundsTileset_100: 732068642
+      BeforeGroundsTileset_17: 1001578370
+      BeforeGroundsTileset_92: -38252547
+      BeforeGroundsTileset_96: 1128070919
+      BeforeGroundsTileset_36: 919147880
+      BeforeGroundsTileset_103: -1934252214
+      BeforeGroundsTileset_38: -548335786
+      BeforeGroundsTileset_269: -1306101259
+      BeforeGroundsTileset_32: -1152235790
+      BeforeGroundsTileset_119: -1431488269
+      BeforeGroundsTileset_22: -1254575644
+      BeforeGroundsTileset_212: 1831007943
+      BeforeGroundsTileset_183: 1773434043
+      BeforeGroundsTileset_202: -1820469520
+      BeforeGroundsTileset_120: -2085470634
+      BeforeGroundsTileset_189: -1706917652
+      BeforeGroundsTileset_47: 1257827645
+      BeforeGroundsTileset_8: -2093187303
+      BeforeGroundsTileset_27: 1293847497
+      BeforeGroundsTileset_76: -436626509
+      BeforeGroundsTileset_41: 846282488
+      BeforeGroundsTileset_94: 1227393427
+      BeforeGroundsTileset_258: 975583914
+      BeforeGroundsTileset_251: 1600060377
+      BeforeGroundsTileset_192: 1567962874
+      BeforeGroundsTileset_255: -410323600
+      BeforeGroundsTileset_180: 1110551389
+      BeforeGroundsTileset_242: 1410007498
+      BeforeGroundsTileset_107: 571679813
+      BeforeGroundsTileset_165: -2015953843
+      BeforeGroundsTileset_80: -184781320
+      BeforeGroundsTileset_114: 2082579232
+      BeforeGroundsTileset_198: -1991073183
+      BeforeGroundsTileset_109: -2107290367
+      BeforeGroundsTileset_143: 1159051102
+      BeforeGroundsTileset_121: 2078139010
+      BeforeGroundsTileset_172: 807909637
+      BeforeGroundsTileset_170: 1107602095
+      BeforeGroundsTileset_132: 425708319
+      BeforeGroundsTileset_1: 1259471128
+      BeforeGroundsTileset_157: -1116763093
+      BeforeGroundsTileset_52: 1543254592
+      BeforeGroundsTileset_178: -759419048
+      BeforeGroundsTileset_218: 1664504468
+      BeforeGroundsTileset_67: -671173403
+      BeforeGroundsTileset_77: 18494848
+      BeforeGroundsTileset_69: 1189690795
+      BeforeGroundsTileset_139: 1875428306
+      BeforeGroundsTileset_225: -338879509
+      BeforeGroundsTileset_62: 728831376
+      BeforeGroundsTileset_113: 261389428
+      BeforeGroundsTileset_173: -854763223
+      BeforeGroundsTileset_101: -362975687
+      BeforeGroundsTileset_130: 2107260492
+      BeforeGroundsTileset_161: -1931542615
+      BeforeGroundsTileset_232: 1297291338
+      BeforeGroundsTileset_75: 47518640
+      BeforeGroundsTileset_122: 876219416
+      BeforeGroundsTileset_13: -75328303
+      BeforeGroundsTileset_166: 304092391
+      BeforeGroundsTileset_206: -2087084664
+      BeforeGroundsTileset_110: -501861365
+      BeforeGroundsTileset_226: -681183242
+      BeforeGroundsTileset_223: -154141800
+      BeforeGroundsTileset_259: -36153029
+      BeforeGroundsTileset_45: 1127055309
+      BeforeGroundsTileset_72: 816779261
+      BeforeGroundsTileset_154: -102060670
+      BeforeGroundsTileset_243: 1910151029
+      BeforeGroundsTileset_98: 166947600
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

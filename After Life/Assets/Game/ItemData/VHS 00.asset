@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 089d3ac934f7e55408f3c7a9b6076468, type: 3}
+  m_Name: VHS 00
+  m_EditorClassIdentifier: 
+  displayName: VHS Tape 0
+  icon: {fileID: 1207725871, guid: c6b079a07bf6e2f45b2297f024555533, type: 3}
+  metaInfo: " 01110111 01101000 01100101\n 01110010 01100101 00100000\n 01101100
+    01101111 01110011\n 01110100 00100000 01101111\n 01101110 01100101 01110011\n
+    00100000 01100110 01100001\n 01101100 01101100 00101110"

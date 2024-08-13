@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: 249ea1a7c4874c54ba0357a13fe0f5c9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LilMonkeyDude_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 438
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50114548678615d4ca0f90204c8129ce
+      internalID: -1152146817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 438
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf383c38afa7fd3418e026ebdb8ac809
+      internalID: 2017207741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 438
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1e15e53f9d4fa48838603c88140950
+      internalID: -1406351134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 438
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6261e76e7cea2fd4b99f3153daac966e
+      internalID: 1889288987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 438
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f560674181785ef45aab1b874dd28b5a
+      internalID: -1601990858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 438
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ee9fb111f54c469f54e8eb6d8babf
+      internalID: 153808403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 438
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f598730c1699844b35c6508c1a3756
+      internalID: 363915642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 406
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12ac7a511ae1a41acf5953b7413231
+      internalID: -2050256234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 406
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3755f6ef188624d8a68216245faca7
+      internalID: 1318443488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 406
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52abd2c36258134e8704d44fe72fdf3
+      internalID: -1441219575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 406
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab39e998b0305e41bd67ea17d8011b0
+      internalID: -1189078961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 406
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb684a70eb7be145a76793d7b73c29a
+      internalID: 928498763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 406
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af1b53799b6def4595368aa54596d74
+      internalID: 1040349293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 406
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae241a8fd3356c4d82555e5c9be15f3
+      internalID: -242213729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7941f8d46c16c43aeb9691e7451191
+      internalID: 1804422660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 374
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df3888a62fcac4e833f40f17ebb8de
+      internalID: -2128458336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 374
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f075db3adf2e42836df37498e3a65
+      internalID: 378210867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 374
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d1a8aaab70dc4c88b58aee7a155d7
+      internalID: -1873133929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 374
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04701d99f16fab445851897ceabc5664
+      internalID: 545450608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 374
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33756d6df96874439eba0e47ec61d73
+      internalID: 1926888369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilMonkeyDude_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 374
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fc20996d5aba46a113e5f775efd72
+      internalID: 1220086147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LilMonkeyDude_12: -1652710180
+      LilMonkeyDude_32: 1926888369
+      LilMonkeyDude_31: 545450608
+      LilMonkeyDude_23: -1189078961
+      LilMonkeyDude_6: 1138152953
+      LilMonkeyDude_1: -1785919822
+      LilMonkeyDude_7: -1402801643
+      LilMonkeyDude_3: 888603051
+      LilMonkeyDude_4: 1951939842
+      LilMonkeyDude_10: -275441606
+      LilMonkeyDude_19: 363915642
+      LilMonkeyDude_13: -1152146817
+      LilMonkeyDude_0: 565357123
+      LilMonkeyDude_14: 2017207741
+      LilMonkeyDude_29: 378210867
+      LilMonkeyDude_24: 928498763
+      LilMonkeyDude_20: -2050256234
+      LilMonkeyDude_27: 1804422660
+      LilMonkeyDude_28: -2128458336
+      LilMonkeyDude_17: -1601990858
+      LilMonkeyDude_25: 1040349293
+      LilMonkeyDude_16: 1889288987
+      LilMonkeyDude_2: -618552814
+      LilMonkeyDude_8: -1939475149
+      LilMonkeyDude_21: 1318443488
+      LilMonkeyDude_30: -1873133929
+      LilMonkeyDude_5: -738145994
+      LilMonkeyDude_33: 1220086147
+      LilMonkeyDude_22: -1441219575
+      LilMonkeyDude_26: -242213729
+      LilMonkeyDude_11: 726471692
+      LilMonkeyDude_18: 153808403
+      LilMonkeyDude_15: -1406351134
+      LilMonkeyDude_9: 1808564501
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

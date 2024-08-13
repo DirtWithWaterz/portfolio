@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4828824262517157735
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 379821522358502278, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 379821523918866739, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012945999763233084, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012946001323561865, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881172, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: refs.planeShader
+      value: 
+      objectReference: {fileID: 4800000, guid: e3b30239bf895eb409abeba3c9ff165c, type: 3}
+    - target: {fileID: 3690824098994881172, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: advanced.moveOtherPlane
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881172, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: advanced.elasticPlaneOffset
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881173, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3690824098994881179, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_Name
+      value: portals set - ultra thin - with switch and light
+      objectReference: {fileID: 0}
+    - target: {fileID: 4293033768586029838, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4293033770246922683, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230065971521568297, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_Size.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230065971521568298, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: setup
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230065971974632604, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_Size.x
+      value: 5.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230065971974632604, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_Size.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230065971974632607, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: setup
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7001952341879431916, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7001952343406241881, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3690824098994881172, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3690824098994881179, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9151240514233598643}
+  m_SourcePrefab: {fileID: 100100000, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+--- !u!1 &8087091519251934716 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3690824098994881179, guid: 263207745c2407b468b6043b8a6c99fe, type: 3}
+  m_PrefabInstance: {fileID: 4828824262517157735}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9151240514233598643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8087091519251934716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22b8d8592a4a7774a81121483f916c6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groupId: 
+  player:
+    playerCameraComp: {fileID: 0}
+    playerCameraTr: {fileID: 0}
+    playerTag: Player
+    playerMainObj: {fileID: 0}
+    controllerType: 2
+    playerCc: {fileID: 0}
+    playerRb: {fileID: 0}
+    alwaysMimicPlayersFOV: 0
+    cameraType: 2
+    adjustOffsetPosition: 1
+    nearOffsetPosition: {x: 0, y: 0.4, z: 0}
+    adjustFieldOfView: 0
+    nearFovValue: 40
+    transitionAreaDetectionMode: 1
+    transitionRadius: 4
+    customBoxCenter: {x: 0, y: 1, z: 0}
+    customBoxSize: {x: 5, y: 2, z: 10}
+    letAddScriptToPlayerCam: 1
+  setupComplete: 0
+  refs:
+    screenHeight: 0
+    screenWidth: 0
+    planeShader: {fileID: 4800000, guid: 0c88b19c11cb07e4e8adefb78cb93a9b, type: 3}
+    objCamA: {fileID: 0}
+    objCamB: {fileID: 0}
+    cameraA: {fileID: 0}
+    cameraB: {fileID: 0}
+    planeA: {fileID: 0}
+    planeB: {fileID: 0}
+    portalA: {fileID: 0}
+    portalB: {fileID: 0}
+    scriptPortalA: {fileID: 0}
+    scriptPortalB: {fileID: 0}
+    scriptCamA: {fileID: 0}
+    scriptCamB: {fileID: 0}
+    rendererA: {fileID: 0}
+    rendererB: {fileID: 0}
+    functionalFolderA: {fileID: 0}
+    functionalFolderB: {fileID: 0}
+  doubleSided: 0
+  filters:
+    otherObjectsCanCross: 1
+    tagsCanCross: []
+    tagsCannotCross: []
+  clones:
+    useClones: 1
+    clonePlayerToo: 1
+  afterTeleport:
+    tryResetCharacterController: 1
+    tryResetCameraObject: 1
+    tryResetCameraScripts: 1
+    mantainPlayerOffset: 0
+  advanced:
+    renderOrder: 5
+    elasticPlaneOffset: 0.02
+    useElasticPlane: 1
+    elasticPlaneMinTreshold: -0.05
+    elasticPlaneTeleportWindowFrom: 0.1
+    elasticPlaneTeleportWindowTo: 0.3
+    dynamicOffsetBasedOnVelocity: 0
+    elasticPlaneVelocityFactor: 0
+    alignNearClippingPlane: 1
+    clippingOffset: 0
+    dontAlignNearerThan: 0.1
+    dotCalculationOffset: 0
+    tryPreventTooFastFailure: 1
+    maxSpeedForElasticPlane:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 20
+        value: 15
+        inSlope: 0.4375
+        outSlope: 0.4375
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 100
+        value: 50
+        inSlope: 0.4375
+        outSlope: 0.4375
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    tryEmergencyTeleport: 1
+    depthTexture: 16
+    avoidZeroViewport: 1
+  nestedPortals:
+    nestedPortalsA: []
+    nestedPortalsB: []
+    priorityWhenBothVisible: 0
+  surfacePortals:
+    isSurfacePortals: 0
+    disableCollidersNearPortals: 0
+    filterType: 0
+    allowedColliders: []
+    forbiddenColliders: []
+    getCollidersOnAwake: 1
+    hideSurfacesBeforeRendering: 0
+  multiGravity:
+    applyMultiGravity: 0
+  optimization:
+    disableUnnecessaryCameras: 1
+    disableDistantCameras: 0
+    fartherThan: 100
+    renderCamerasOnFirstFrame: 1
+  recursiveRendering:
+    useRecursiveRendering: 0
+    maximumRenderPasses: 5
+  onOffSwitch:
+    isOn: 0
+    initialState: 1
+    isTimed: 0
+    durationSeconds: 10
+    momentLastOn: 0
+    desiredAngle: 0
+    manageLights: 1
+    lights: []
+  debugOptions:
+    verboseDebug: 0
+    draw3rdPersonAreaGizmos: 1
+    drawElasticPlaneGizmos: 1
+    pauseWhenPlayerTeleports: 0
+    pauseWhenOtherTeleports: 0
+  forceActivateCamsInNextFrame: 0
+  teleportInProgress: 0
+  lastTeleportTime: 0
+  startWorkflow: 0
