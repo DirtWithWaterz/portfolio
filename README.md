@@ -19,3 +19,9 @@ Xanthophobia - 2022.3.5f1
 Mic-Movement-Planet-Flashlight - 2021.3.7f1
     I know my names are so original, this is where I made the microphone sensitive ai, Made the smooth movement, and a pretty cool flashlight. Also a really pretty planet with a star behind it. The star moves to simulate an orbit if I remember correctly.
     I also built a voice recognition system, try saying "come in command, Can you hear me? Over." or just "can you hear me?".
+
+A Spot of Life - 2021.3.4f1
+    Just a tiny life simulator I made, using rules and values the computer decides whether an object should be attracted or repelled from another.
+
+
+it'd probably be fine to open all of these on 2021.3.23f1. Except xanthophobia.
