@@ -17,5 +17,5 @@ Xanthophobia -
     A game on a console, it's fully functional. Has a tiny dungeon to explore. type "help" for a list of commands on starting the game.
 
 Mic-Movement-Planet-Flashlight -
-    I know my names are so original, this is where I made the microphone sensitive ai, Made the smooth movement, and I pretty cool flashlight. Also I really pretty planet with a star behind it. The star moves to simulate an orbit if I remember correctly.
+    I know my names are so original, this is where I made the microphone sensitive ai, Made the smooth movement, and a pretty cool flashlight. Also a really pretty planet with a star behind it. The star moves to simulate an orbit if I remember correctly.
     I also built a voice recognition system, try saying "come in command, Can you hear me? Over." or just "can you hear me?".
