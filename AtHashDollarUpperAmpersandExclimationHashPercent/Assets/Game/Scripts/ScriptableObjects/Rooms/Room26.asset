@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a2df53121e6d40a302eb2675873e5, type: 3}
+  m_Name: Room26
+  m_EditorClassIdentifier: 
+  description: A fountain of water sits against the east wall, Numerous monstrous
+    skulls lie within niches in the south and west walls.
+  roomName: room 26
+  exits:
+  - keyString: southeast
+    exitDescription: You see a door in the southeast corner of the room.
+    valueRoom: {fileID: 11400000, guid: a7f1485b43a192c49a072ee881f195ae, type: 2}
+  - keyString: north
+    exitDescription: Another in the north.
+    valueRoom: {fileID: 11400000, guid: 563560b873b911a44b3c712f3167a3e4, type: 2}
+  - keyString: northeast
+    exitDescription: One more door sits in the northeast corner.
+    valueRoom: {fileID: 11400000, guid: 3cdc7ce232067ef4fa6a0f4650081029, type: 2}
+  - keyString: south
+    exitDescription: And an archway to the south.
+    valueRoom: {fileID: 11400000, guid: 077abbd462872f44fadbc788ee7de18b, type: 2}
+  interactableObjectsInRoom: []

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a2df53121e6d40a302eb2675873e5, type: 3}
+  m_Name: Hallway4
+  m_EditorClassIdentifier: 
+  description: Walking through this winding hall you notice acid dripping from the
+    ceiling, slowly. drop. By... Drop.
+  roomName: hallway 4
+  exits:
+  - keyString: north
+    exitDescription: A door that stings to the touch sits north.
+    valueRoom: {fileID: 11400000, guid: c8b8305ebe1421e41a8b25d3f6c9655e, type: 2}
+  - keyString: west
+    exitDescription: A stone door lays west.
+    valueRoom: {fileID: 11400000, guid: da5c62b44e18c1b49b234ec96a725acd, type: 2}
+  interactableObjectsInRoom: []

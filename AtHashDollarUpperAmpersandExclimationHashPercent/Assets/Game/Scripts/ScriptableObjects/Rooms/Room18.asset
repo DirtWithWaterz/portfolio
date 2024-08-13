@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a2df53121e6d40a302eb2675873e5, type: 3}
+  m_Name: Room18
+  m_EditorClassIdentifier: 
+  description: A scrawled diagram of a mechanical trap is on the east wall, An unidentifiable
+    odor fills the north-west corner of the room.
+  roomName: room 18
+  exits:
+  - keyString: west
+    exitDescription: A door lays to the west.
+    valueRoom: {fileID: 11400000, guid: 077abbd462872f44fadbc788ee7de18b, type: 2}
+  - keyString: east
+    exitDescription: And one to the east.
+    valueRoom: {fileID: 11400000, guid: 680bca1f897fbc8449591adc1ebb65f0, type: 2}
+  - keyString: south
+    exitDescription: A broken down door sits to the south. It stings slightly to
+      the touch.
+    valueRoom: {fileID: 11400000, guid: 03ed54b097ba674418e302a28eaa76f3, type: 2}
+  interactableObjectsInRoom: []

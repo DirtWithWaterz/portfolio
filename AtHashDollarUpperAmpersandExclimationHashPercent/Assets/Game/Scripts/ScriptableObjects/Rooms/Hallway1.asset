@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a2df53121e6d40a302eb2675873e5, type: 3}
+  m_Name: Hallway1
+  m_EditorClassIdentifier: 
+  description: Entering into a cramped, wet, corridor, You tredge through the winding
+    passages.
+  roomName: hallway 1
+  exits:
+  - keyString: north
+    exitDescription: You note down a door to the north as you creek through.
+    valueRoom: {fileID: 11400000, guid: 27ab47bf2ff7ddc46be0108441ed2e9f, type: 2}
+  - keyString: west
+    exitDescription: As well as another door to the west.
+    valueRoom: {fileID: 11400000, guid: 52f77511b10266e498b00a5db9ad5362, type: 2}
+  - keyString: east
+    exitDescription: Going east leads to a left turn and an open archway with a dark
+      room beyond.
+    valueRoom: {fileID: 11400000, guid: 60813a92aebb2d84eb705ddf6e22b960, type: 2}
+  interactableObjectsInRoom: []
