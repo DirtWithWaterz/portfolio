@@ -1,8 +1,8 @@
 After Life -
-    All by me, and any imports of course.
+    All by me, besides any imports of course.
 
 Chess -
-    School project, all writen by myself, taking a course on youtube for some guidance in my learning. All of the networking was done by myself, and about half of the code. This is the playlist I used for guidance, I then made a 2d game with the information I learned. (https://www.youtube.com/playlist?list=PLmcbjnHce7SeAUFouc3X9zqXxiPbCz8Zp)
+    School project, all writen by myself, taking a course on youtube for some guidance in my learning. All of the networking was done by myself, and the majority of the code. This is the playlist I used for guidance, I then made a 2d game with the information I learned. (https://www.youtube.com/playlist?list=PLmcbjnHce7SeAUFouc3X9zqXxiPbCz8Zp)
 
 LED -
     A project I worked on with a friend.
